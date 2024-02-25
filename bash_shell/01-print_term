@@ -1,0 +1,4 @@
+#Your first challenge is to print “Hello World” on the terminal in a single command.
+
+#!/bin/bash
+each "Hello World"

@@ -1,0 +1,4 @@
+#There is a file named access.log in the current directory. Print the contents.
+
+#!/bin/bash
+cat access.log

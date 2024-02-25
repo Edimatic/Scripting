@@ -1,0 +1,4 @@
+#Print the current working directory.
+
+#!/bin/bash
+pwd

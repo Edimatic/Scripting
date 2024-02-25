@@ -1,0 +1,4 @@
+#Print the last 5 lines of "access.log"
+
+#!/bin/bash
+tail -5 access.log
